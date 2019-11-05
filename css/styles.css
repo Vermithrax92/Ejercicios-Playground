@@ -1,0 +1,70 @@
+header{
+
+  border-bottom: solid 1px gray;
+  padding-left: 20px;
+
+}
+.Lista1{
+  list-style: none;
+  width: 300px;
+  float: left;
+  margin-top: 30px;
+  overflow: hidden;
+  padding: 15px;
+
+
+
+}
+section{
+  float: right;
+  width: 610px;
+  margin-top: 1px;
+  border-left: solid 1px gray;
+  padding-left: 40px;
+  height: auto;
+  margin-top: 30px;
+  background-position: right top;
+  background-repeat: no-repeat;
+  padding: 15px;
+  box-sizing: border-box;
+
+}
+
+.fotosMenu{
+  float: right;
+}
+
+#link{
+  text-decoration: none;
+}
+
+#logoWeb{
+  float: bottom ;
+  width: 20%;
+  height: 20%;
+  overflow: hidden;
+
+}
+
+.pie{
+  background-color: gray;
+  display: inline-block;
+  padding: 20px;
+  width: 960px;
+
+}
+
+
+
+body{
+  width: 960px;
+}
+
+li{
+  margin-top: 10px;
+}
+
+#img{
+  float: right;
+  list-style: none;
+}
